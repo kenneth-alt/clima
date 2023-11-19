@@ -1,5 +1,6 @@
 {
   "name": "clima",
+  "type": "module",
   "version": "1.0.0",
   "description": "Weather App in Vanilla JS",
   "main": "index.js",
